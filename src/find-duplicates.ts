@@ -16,6 +16,12 @@ export interface Transaction {
  *   amount: 300,
  *   description: 'tikkie'
  * }
+ * 
+ * Note:
+ * - Create additional functions if required.
+ * - Follow proper coding conventions and best practices.
+ * - Make sure existing unit test passes.
+ * - Write further unit tests to cover maximum code.
  *  
  * 
  * @param transactions List of transactions
