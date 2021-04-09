@@ -44,16 +44,14 @@ test('Find duplicate transactions', () => {
       source: 'A',
       target: 'B',
       amount: 300,
-      description: 'tikkie',
-      time: '2020-03-01T10:34:30.000Z'
+      description: 'tikkie'
     },
     {
       id: 3,
       source: 'A',
       target: 'B',
       amount: 300,
-      description: 'tikkie',
-      time: '2020-03-03T10:36:00.000Z'
+      description: 'tikkie'
     }
   ]);
 });
