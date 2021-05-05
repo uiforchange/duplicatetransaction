@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "build": "tsc src/find-duplicates.ts",
-    "test:watch": "npm run test -- --watch"
+    "test:watch": "npm run test --watch"
   },
   "author": "",
   "license": "UNLICENSED",
